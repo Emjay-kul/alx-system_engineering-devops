@@ -1,2 +1,2 @@
 #!/bin/bash
-bash cd.sh
+source cd.sh

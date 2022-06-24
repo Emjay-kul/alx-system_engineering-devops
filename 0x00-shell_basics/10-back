@@ -1,2 +1,2 @@
 #!/bin/bash
-bash back.sh
+source back.sh
