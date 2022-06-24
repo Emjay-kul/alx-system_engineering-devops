@@ -1,2 +1,2 @@
 #!/bin/sh
-mv [[:upper:]]* /tmp/u
+find . -name '[[:upper:]]*' -exec -mv t ~/tmp/u {} +
