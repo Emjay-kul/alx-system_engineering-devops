@@ -1,2 +1,2 @@
 #!/bin/sh
-ls -aln
+ls -n
