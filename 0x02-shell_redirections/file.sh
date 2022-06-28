@@ -1,2 +1,2 @@
 #!/bin/sh
-echo -e "Best School" > "\*\'"Best School"\'\*$\?\*\*\*\*\*:)"
+echo "Best School" > "\*\'"Best School"\'\*$\?*\*\*\*\*:)"
