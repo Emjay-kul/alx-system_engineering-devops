@@ -1,5 +1,4 @@
-#!/bin/bash
-echo "I love this school"
-echo "Shell redirections"
-echo "I hope this project works"
-echo "That is all"
+"I love this school"
+"Shell redirections"
+"I hope it works this time"
+"Okay bye"
