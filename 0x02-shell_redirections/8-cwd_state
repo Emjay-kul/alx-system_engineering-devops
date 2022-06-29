@@ -1,2 +1,2 @@
 #!/bin/bash
-bash na.sh
+ls -la > ls_cwd_content
